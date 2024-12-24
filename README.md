@@ -47,10 +47,6 @@ Mood Movies, kullanıcıların duygu durumlarına göre film önerileri sunan bi
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 
-## İletişim
-
-- GitHub: [@kullanıcı-adınız](https://github.com/[kullanıcı-adınız])
-
 ## Teşekkürler
 
 - TMDB API'yi kullandığımız için The Movie Database'e teşekkürler
