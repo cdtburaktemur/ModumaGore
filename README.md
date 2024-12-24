@@ -34,9 +34,6 @@ Mood Movies, kullanıcıların duygu durumlarına göre film önerileri sunan bi
 - Provider (Durum Yönetimi)
 - Shared Preferences (Yerel Depolama)
 
-## Ekran Görüntüleri
-
-[Ekran görüntüleri buraya eklenecek]
 
 ## Katkıda Bulunma
 
